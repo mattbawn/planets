@@ -3,4 +3,8 @@ add something else
 again something pointless 
 another great experiment
 finally the end?
+<<<<<<< HEAD
 a different error test
+=======
+this line is bad
+>>>>>>> 6f35cc2d53721f275e7c514973ae4527d28c9fcd
